@@ -14,3 +14,4 @@ function showAnimation() {
 
 window.addEventListener("scroll", showAnimation);
 window.addEventListener("load", showAnimation);
+
